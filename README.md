@@ -4,7 +4,7 @@
 
 ![screenshot](https://user-images.githubusercontent.com/1305617/45956448-87fec380-bfe0-11e8-8b8c-1bbbee7552c6.png)
 
-A so very simple personal site.
+A so very simple personal site. really?
 
 This is a [Fork-n-Go](http://jlord.github.io/forkngo) project, so fork to get started making your own.
 
